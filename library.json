@@ -1,0 +1,16 @@
+{
+  "name": "MODULE_4IN8OUT",
+  "description": "Library for M5Stack MODULE 4IN8OUT",
+  "keywords": "M5Stack MODULE 4IN8OUT",
+  "authors": {
+    "name": "M5Stack",
+    "url": "http://www.m5stack.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m5stack/MODULE_4IN8OUT.git"
+  },
+  "version": "0.0.1",
+  "frameworks": "arduino",
+  "platforms": "espressif32"
+}
